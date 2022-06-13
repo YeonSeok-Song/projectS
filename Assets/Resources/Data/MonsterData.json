@@ -1,0 +1,18 @@
+{
+  "monsters": [
+    {
+      "id": "1",
+      "name": "Zombie1",
+      "maxHp": "100",
+      "attack": "1",
+      "defense": "1"
+    },
+    {
+      "id": "2",
+      "name": "Zombie2",
+      "maxHp": "120",
+      "attack": "1",
+      "defense": "2"
+    }
+  ]
+}

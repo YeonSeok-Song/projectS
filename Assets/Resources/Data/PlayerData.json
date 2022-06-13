@@ -1,0 +1,11 @@
+{
+    "players": [
+      {
+        "id": "1",
+        "name": "Marian",
+        "maxHp": "10",
+        "attack": "10",
+        "defense": "2"
+      }
+    ]
+  }

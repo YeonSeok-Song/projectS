@@ -1,0 +1,18 @@
+.vs
+Library
+Logs
+obj
+Packages
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Unity.2D.Sprite.Editor.csproj
+Unity.2D.Tilemap.Editor.csproj
+UnityEditor.UI.csproj
+UnityEngine.UI.csproj
+Assets/ImportAssets
+Assets/Template
+Assets/Resources/Textures
+Assets/TextMesh Pro
+Assets/Resources/Fonts
+Assets/Resources/Tiles

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "tempItem",
+      "damage": "10",
+      "defense": "0",
+      "price": "100"
+
+    },
+    {
+      "id": "2",
+      "name": "tempScroll",
+      "damage": "5",
+      "defense": "0",
+      "price": "200"
+    }
+  ]
+}

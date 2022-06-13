@@ -1,0 +1,20 @@
+{
+  "maps": [
+    {
+      "id": "1",
+      "name": "Field"
+    },
+    {
+      "id": "2",
+      "name": "BossRoom"
+    },
+    {
+      "id": "3",
+      "name": "Lobby"
+    },
+    {
+      "id": "4",
+      "name": "Shop"
+    }
+  ]
+}
